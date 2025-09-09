@@ -1,2 +1,2 @@
-# CodeAlpha_Iris-Project
-Machine learning project using the Iris dataset to classify flower species. Includes data visualization, preprocessing, and multiple models (Logistic Regression, Decision Tree, k-NN) with accuracy evaluation. Perfect for beginners learning classification.
+# My_Iris_Classification_Project
+Developed by Anees Younas during my CodeAlpha internship. This project uses the Iris dataset to classify flower species with machine learning. Includes data preprocessing, visualization, and models like Logistic Regression, Decision Tree, and K-NN, with accuracy evaluation. A great learning tool for ML beginners!s
